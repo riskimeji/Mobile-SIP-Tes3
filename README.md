@@ -2,6 +2,10 @@
 # Prasyarat
  - Flutter 3.4.0-17.2.pre
  - Dart SDK version 2.19.0 (build 2.19.0-146.2.beta)
+
+# Konfigurasi Server Lokal
+1. Lakukan konfigurasi server di repository berikut (https://github.com/riskimeji/api-personalnote)
+
 # Langkah Instalasi
 1. `git clone https://github.com/riskimeji/Mobile-SIP-Tes3.git`
 2. masuk ke dalam folder Mobile-SIP-Tes3 `cd Mobile-SIP-Tes-3`
