@@ -14,4 +14,4 @@
 8. pilih device
 
 # Download Aplikasi dengan Server Online yang sudah Saya sediakan
-`https://drive.google.com/file/d/1tsz64XKPHolREKpMcKJus1cWOkF0X_GT/view?usp=sharing`
+`(Download Here)[https://drive.google.com/file/d/1tsz64XKPHolREKpMcKJus1cWOkF0X_GT/view?usp=sharing]`
