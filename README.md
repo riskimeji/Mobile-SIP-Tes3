@@ -9,10 +9,9 @@
 4. masuk ke dalam folder `lib`
 5. buka file config.dart ubah `apiBasUrl` sesuai dengan url server yang sudah di konfigurasi pada repository berikut
    `https://github.com/riskimeji/api-personalnote`
-6. jalakan `flutter pub get`
-7. jalankan `flutter pub run flutter_native_splash:create`
-8. jalankan `flutter run`
-9. pilih device
+6. jalankan `flutter pub run flutter_native_splash:create`
+7. jalankan `flutter run`
+8. pilih device
 
 # Download Aplikasi dengan Server Online yang sudah Saya sediakan
 `https://drive.google.com/file/d/1tsz64XKPHolREKpMcKJus1cWOkF0X_GT/view?usp=sharing`
