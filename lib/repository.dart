@@ -66,7 +66,7 @@ class Repository {
     try {
       final response = await http.delete(Uri.parse(url));
       if (response.statusCode == 200) {
-        print('Catatan berhasil dihapus');
+        print('Delete Note Successfully');
         return true;
       } else {
         print('Gagal melakukan DELETE: ${response.statusCode}');

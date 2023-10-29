@@ -245,7 +245,7 @@ class DetailPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Detail Catatan'),
+        title: const Text('Note Detail'),
         actions: [
           ElevatedButton(
             onPressed: () {
@@ -312,7 +312,7 @@ class _CreatePageState extends State<CreatePage> {
 
         // Tampilkan pesan sukses
         const snackBar = SnackBar(
-          content: Text('Catatan berhasil disimpan!'),
+          content: Text('Update Note Succesfully!'),
         );
         ScaffoldMessenger.of(context).showSnackBar(snackBar);
       }
@@ -418,7 +418,7 @@ class _EditPageState extends State<EditPage> {
       // Tampilkan pesan sukses
       // ignore: prefer_const_constructors
       final snackBar = SnackBar(
-        content: const Text('Catatan berhasil disimpan!'),
+        content: const Text('Update Note Successfully!'),
       );
       // ignore: use_build_context_synchronously
       ScaffoldMessenger.of(context).showSnackBar(snackBar);
@@ -429,7 +429,7 @@ class _EditPageState extends State<EditPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Edit Catatan'),
+        title: const Text('Edit Note'),
         actions: [
           ElevatedButton(
             onPressed: saveChanges,

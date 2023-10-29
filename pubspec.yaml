@@ -50,7 +50,7 @@ flutter_icons:
 flutter_native_splash:
   android: true
   ios: true
-  web: true
+  web: false
 
   color: '#FFFFFF'
   # background_image: 'assets/bgimage.jpg'
